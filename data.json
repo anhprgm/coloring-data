@@ -263,6 +263,22 @@
                     "isPremium": false
                 }
             ]
+        },
+        {
+            "source": "New Updates",
+            "priority": 2,
+            "title": "New Updates",
+            "isParent": true,
+            "child": [
+                {
+                    "path": "New Updates",
+                    "isPremium": false
+                },
+                {
+                    "path": "Kid",
+                    "isPremium": false
+                }
+            ]
         }
     ],
     "version": 1
