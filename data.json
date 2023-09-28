@@ -266,7 +266,7 @@
         },
         {
             "source": "Kids",
-            "priority": 2,
+            "priority": 3,
             "title": "HEHE",
             "isParent": true,
             "child": [
@@ -282,7 +282,7 @@
         },
         {
             "source": "Animals",
-            "priority": 3,
+            "priority": 4,
             "title": "Animals",
             "isParent": false,
             "child": [
@@ -586,7 +586,7 @@
         },
         {
             "source": "Peppa Pig",
-            "priority": 2,
+            "priority": 5,
             "title": "Peppa Pig",
             "isParent": false,
             "child": [
@@ -663,7 +663,119 @@
                     "isPremium": false
                 }
             ]
+        },
+        {
+            "source": "Anime",
+            "priority": 6,
+            "title": "Anime",
+            "isParent": false,
+            "child": [
+                {
+                    "path": "Anime/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/06",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/07",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/08",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/09",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/10",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/11",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/12",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/13",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/14",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/15",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/16",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/17",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/18",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/19",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/20",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/21",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/22",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/23",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/24",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/25",
+                    "isPremium": false
+                },
+                {
+                    "path": "Anime/26",
+                    "isPremium": false
+                }
+            ]
         }
     ],
-    "version": 7
+    "version": 1
 }
