@@ -775,7 +775,39 @@
                     "isPremium": false
                 }
             ]
+        },
+        {
+            "source": "Mandalas",
+            "priority": 7,
+            "title": "Mandalas",
+            "isParent": false,
+            "child": [
+                {
+                    "path": "Mandalas/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandalas/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandalas/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandalas/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandalas/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandalas/06",
+                    "isPremium": false
+                }
+            ]
         }
     ],
-    "version": 9
+    "version": 10
 }
