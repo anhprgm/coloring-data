@@ -826,7 +826,7 @@
             "source": "Place",
             "priority": 1,
             "title": "Places",
-            "preview": "Places",
+            "preview": "Place",
             "isParent": false,
             "isShowHome": true,
             "child": [
@@ -879,19 +879,11 @@
                     "isPremium": false
                 },
                 {
-                    "path": "Place/13",
-                    "isPremium": false
-                },
-                {
                     "path": "Place/14",
                     "isPremium": false
                 },
                 {
                     "path": "Place/15",
-                    "isPremium": false
-                },
-                {
-                    "path": "Place/16",
                     "isPremium": false
                 },
                 {
@@ -903,7 +895,317 @@
                     "isPremium": false
                 }
             ]
+        },
+        {
+            "source": "Animal",
+            "priority": 1,
+            "title": "Animals",
+            "preview": "Animal",
+            "isParent": false,
+            "isShowHome": true,
+            "child": [
+                {
+                    "path": "Animal/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/06",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/07",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/08",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/09",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/10",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/11",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/12",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/13",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/14",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/15",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/16",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/17",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/18",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/19",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/20",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/21",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/22",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/23",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/24",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/25",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/26",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/27",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/28",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/29",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/30",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/31",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/32",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/33",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/34",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/35",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/36",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/37",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/38",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/39",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/40",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/41",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/42",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/43",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/44",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/45",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/46",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/47",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/48",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/49",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/50",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/51",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/52",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/53",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/54",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/55",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/56",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/57",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/58",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/59",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/60",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/61",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/62",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/63",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/64",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/65",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/66",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/67",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/68",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/69",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/70",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/71",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/72",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/73",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/74",
+                    "isPremium": false
+                },
+                {
+                    "path": "Animal/75",
+                    "isPremium": false
+                }
+            ]
         }
     ],
-    "version": 4
+    "version": 5
 }
