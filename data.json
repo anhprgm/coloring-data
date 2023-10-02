@@ -1619,6 +1619,574 @@
                     "isPremium": false
                 }
             ]
+        },
+        {
+            "source": "Holidays",
+            "priority": 1,
+            "title": "Holidays",
+            "preview": "Holidays",
+            "isParent": true,
+            "isShowHome": true,
+            "child": [
+                {
+                    "path": "Birthday",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween",
+                    "isPremium": false
+                },
+                {
+                    "path": "Happy new year",
+                    "isPremium": false
+                }
+            ]
+        },
+        {
+            "source": "Birthday",
+            "priority": 1,
+            "title": "Birthday",
+            "preview": "Birthday",
+            "isParent": false,
+            "isShowHome": false,
+            "child": [
+                {
+                    "path": "Birthday/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/06",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/07",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/08",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/09",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/10",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/11",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/12",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/13",
+                    "isPremium": false
+                },
+                {
+                    "path": "Birthday/14",
+                    "isPremium": false
+                }
+            ]
+        },
+        {
+            "source": "Christmas",
+            "priority": 1,
+            "title": "Christmas",
+            "preview": "Christmas",
+            "isParent": false,
+            "isShowHome": false,
+            "child": [
+                {
+                    "path": "Christmas/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/06",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/07",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/08",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/09",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/10",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/11",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/12",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/13",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/14",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/15",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/16",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/17",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/18",
+                    "isPremium": false
+                },
+                {
+                    "path": "Christmas/19",
+                    "isPremium": false
+                }
+            ]
+        },
+        {
+            "source": "Halloween",
+            "priority": 1,
+            "title": "Halloween",
+            "preview": "Halloween",
+            "isParent": false,
+            "isShowHome": false,
+            "child": [
+                {
+                    "path": "Halloween/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/06",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/07",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/08",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/09",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/10",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/11",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/12",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/13",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/14",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/15",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/16",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/17",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/18",
+                    "isPremium": false
+                }
+            ]
+        },
+        {
+            "source": "Happy new year",
+            "priority": 1,
+            "title": "Happy new year",
+            "preview": "Happy new year",
+            "isParent": false,
+            "isShowHome": false,
+            "child": [
+                {
+                    "path": "Happy new year/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Happy new year/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Happy new year/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Happy new year/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Happy new year/05",
+                    "isPremium": false
+                }
+            ]
+        },
+        {
+            "source": "Mandala",
+            "priority": 1,
+            "title": "Mandala",
+            "preview": "Mandala",
+            "isParent": false,
+            "isShowHome": true,
+            "child": [
+                {
+                    "path": "Mandala/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/06",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/07",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/08",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/09",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/10",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/11",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/12",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/13",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/14",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/15",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/16",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/17",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/18",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/19",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/20",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/21",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/22",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/23",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/24",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/25",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/26",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/27",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/28",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/29",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/30",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/31",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/32",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/33",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/34",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/35",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/36",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/37",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/38",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/39",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/40",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/41",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/42",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/43",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/44",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/45",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/46",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/47",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/48",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/49",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/50",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/51",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/52",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/53",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/54",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/55",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/56",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/57",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/58",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/59",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/60",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/61",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/62",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/63",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/64",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/65",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/66",
+                    "isPremium": false
+                },
+                {
+                    "path": "Mandala/67",
+                    "isPremium": false
+                }
+            ]
         }
     ],
     "version": 1
