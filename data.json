@@ -1624,7 +1624,7 @@
             "source": "Holidays",
             "priority": 1,
             "title": "Holidays",
-            "preview": "Holidays",
+            "preview": "Birthday",
             "isParent": true,
             "isShowHome": true,
             "child": [
