@@ -2187,6 +2187,88 @@
                     "isPremium": false
                 }
             ]
+        },
+        {
+            "source": "New Updates",
+            "priority": 1,
+            "title": "New Updates",
+            "preview": "New Updates",
+            "isParent": false,
+            "isShowHome": false,
+            "child": [
+                {
+                    "path": "Halloween/01",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/02",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/03",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/04",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/05",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/06",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/07",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/08",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/09",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/10",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/11",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/12",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/13",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/14",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/15",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/16",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/17",
+                    "isPremium": false
+                },
+                {
+                    "path": "Halloween/18",
+                    "isPremium": false
+                }
+            ]
         }
     ],
     "version": 1
