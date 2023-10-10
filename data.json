@@ -971,10 +971,6 @@
                     "isPremium": false
                 },
                 {
-                    "path": "Place/03",
-                    "isPremium": false
-                },
-                {
                     "path": "Place/04",
                     "isPremium": false
                 },
@@ -2294,10 +2290,6 @@
                 },
                 {
                     "path": "Mandala/32",
-                    "isPremium": false
-                },
-                {
-                    "path": "Mandala/33",
                     "isPremium": false
                 },
                 {
