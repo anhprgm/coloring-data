@@ -1538,19 +1538,19 @@
             "child": [
                 {
                     "path": "Dragon Ball Z/01",
-                    "isPremium": true
+                    "isPremium": false
                 },
                 {
                     "path": "Dragon Ball Z/02",
-                    "isPremium": true
+                    "isPremium": false
                 },
                 {
                     "path": "Dragon Ball Z/03",
-                    "isPremium": true
+                    "isPremium": false
                 },
                 {
                     "path": "Dragon Ball Z/04",
-                    "isPremium": true
+                    "isPremium": false
                 },
                 {
                     "path": "Dragon Ball Z/05",
@@ -1925,10 +1925,6 @@
                     "isPremium": false
                 },
                 {
-                    "path": "Birthday/05",
-                    "isPremium": true
-                },
-                {
                     "path": "Birthday/06",
                     "isPremium": true
                 },
@@ -2120,7 +2116,7 @@
             "child": [
                 {
                     "path": "Happy new year/01",
-                    "isPremium": true
+                    "isPremium": false
                 },
                 {
                     "path": "Happy new year/02",
@@ -2132,11 +2128,11 @@
                 },
                 {
                     "path": "Happy new year/04",
-                    "isPremium": false
+                    "isPremium": true
                 },
                 {
                     "path": "Happy new year/05",
-                    "isPremium": false
+                    "isPremium": true
                 }
             ]
         },
