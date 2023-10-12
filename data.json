@@ -1499,10 +1499,6 @@
                     "isPremium": false
                 },
                 {
-                    "path": "Nemo/11",
-                    "isPremium": false
-                },
-                {
                     "path": "Nemo/12",
                     "isPremium": false
                 },
@@ -1745,10 +1741,6 @@
                     "isPremium": false
                 },
                 {
-                    "path": "Flowers/11",
-                    "isPremium": false
-                },
-                {
                     "path": "Flowers/12",
                     "isPremium": false
                 },
@@ -1762,10 +1754,6 @@
                 },
                 {
                     "path": "Flowers/16",
-                    "isPremium": false
-                },
-                {
-                    "path": "Flowers/17",
                     "isPremium": false
                 },
                 {
@@ -2040,10 +2028,6 @@
                 },
                 {
                     "path": "Christmas/15",
-                    "isPremium": false
-                },
-                {
-                    "path": "Christmas/17",
                     "isPremium": false
                 }
             ]
