@@ -1330,14 +1330,10 @@
       "source": "Anime",
       "priority": 1,
       "title": "Anime",
-      "preview": "Dragon Ball Z",
+      "preview": "Nemo",
       "isParent": true,
       "isShowHome": true,
       "child": [
-        {
-          "path": "Dragon Ball Z",
-          "isPremium": false
-        },
         {
           "path": "Nemo",
           "isPremium": false
