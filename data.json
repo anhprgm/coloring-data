@@ -2,7 +2,7 @@
   "data": [
     {
       "source": "For Kid",
-      "priority": 1,
+      "priority": 2,
       "title": "For Kid",
       "preview": "For Kid",
       "isParent": true,
@@ -44,7 +44,7 @@
     },
     {
       "source": "Oggy Cockroaches",
-      "priority": 1,
+      "priority": 2,
       "title": "Oggy Cockroaches",
       "preview": "Oggy Cockroaches",
       "isParent": false,
@@ -150,7 +150,7 @@
     },
     {
       "source": "Chuggington",
-      "priority": 1,
+      "priority": 2,
       "title": "Chuggington",
       "preview": "Chuggington",
       "isParent": false,
@@ -232,7 +232,7 @@
     },
     {
       "source": "Among Us",
-      "priority": 1,
+      "priority": 2,
       "title": "Among Us",
       "preview": "Among Us",
       "isParent": false,
@@ -318,7 +318,7 @@
     },
     {
       "source": "Dracula",
-      "priority": 1,
+      "priority": 2,
       "title": "Dracula",
       "preview": "Dracula",
       "isParent": false,
@@ -356,7 +356,7 @@
     },
     {
       "source": "Fairy",
-      "priority": 1,
+      "priority": 2,
       "title": "Fairy",
       "preview": "Fairy",
       "isParent": false,
@@ -414,7 +414,7 @@
     },
     {
       "source": "Human",
-      "priority": 1,
+      "priority": 2,
       "title": "Human",
       "preview": "Human",
       "isParent": false,
@@ -496,7 +496,7 @@
     },
     {
       "source": "Kids",
-      "priority": 1,
+      "priority": 2,
       "title": "Kids",
       "preview": "Kids",
       "isParent": false,
@@ -594,7 +594,7 @@
     },
     {
       "source": "Plants",
-      "priority": 1,
+      "priority": 2,
       "title": "Plants",
       "preview": "Plants",
       "isParent": false,
@@ -676,7 +676,7 @@
     },
     {
       "source": "Arts",
-      "priority": 1,
+      "priority": 2,
       "title": "Arts",
       "preview": "Arts",
       "isParent": false,
@@ -710,7 +710,7 @@
     },
     {
       "source": "Foods",
-      "priority": 1,
+      "priority": 2,
       "title": "Foods",
       "preview": "Foods",
       "isParent": false,
@@ -852,7 +852,7 @@
     },
     {
       "source": "Low polys",
-      "priority": 1,
+      "priority": 2,
       "title": "Low poly",
       "preview": "Low polys",
       "isParent": false,
@@ -902,7 +902,7 @@
     },
     {
       "source": "Patterns",
-      "priority": 1,
+      "priority": 2,
       "title": "Pattern",
       "preview": "Patterns",
       "isParent": false,
@@ -960,7 +960,7 @@
     },
     {
       "source": "Place",
-      "priority": 1,
+      "priority": 2,
       "title": "Places",
       "preview": "Place",
       "isParent": false,
@@ -1022,7 +1022,7 @@
     },
     {
       "source": "Animal",
-      "priority": 1,
+      "priority": 2,
       "title": "Animals",
       "preview": "Animal",
       "isParent": false,
@@ -1328,7 +1328,7 @@
     },
     {
       "source": "Anime",
-      "priority": 1,
+      "priority": 2,
       "title": "Anime",
       "preview": "Nemo",
       "isParent": true,
@@ -1346,7 +1346,7 @@
     },
     {
       "source": "Pokemon",
-      "priority": 1,
+      "priority": 2,
       "title": "Pokemon",
       "preview": "Pokemon",
       "isParent": false,
@@ -1448,7 +1448,7 @@
     },
     {
       "source": "Nemo",
-      "priority": 1,
+      "priority": 2,
       "title": "Nemo",
       "preview": "Nemo",
       "isParent": false,
@@ -1526,7 +1526,7 @@
     },
     {
       "source": "Dragon Ball Z",
-      "priority": 1,
+      "priority": 2,
       "title": "Dragon Ball Z",
       "preview": "Dragon Ball Z",
       "isParent": false,
@@ -1620,7 +1620,7 @@
     },
     {
       "source": "Cute",
-      "priority": 1,
+      "priority": 2,
       "title": "Cute",
       "preview": "Cute",
       "isParent": false,
@@ -1694,7 +1694,7 @@
     },
     {
       "source": "Flowers",
-      "priority": 1,
+      "priority": 2,
       "title": "Flowers",
       "preview": "Flowers",
       "isParent": false,
@@ -1898,7 +1898,7 @@
     },
     {
       "source": "Birthday",
-      "priority": 1,
+      "priority": 2,
       "title": "Birthday",
       "preview": "Birthday",
       "isParent": false,
@@ -1960,7 +1960,7 @@
     },
     {
       "source": "Christmas",
-      "priority": 1,
+      "priority": 2,
       "title": "Christmas",
       "preview": "Christmas",
       "isParent": false,
@@ -2026,7 +2026,7 @@
     },
     {
       "source": "Halloween",
-      "priority": 1,
+      "priority": 2,
       "title": "Halloween",
       "preview": "Halloween",
       "isParent": false,
@@ -2104,7 +2104,7 @@
     },
     {
       "source": "Happy new year",
-      "priority": 1,
+      "priority": 2,
       "title": "Happy new year",
       "preview": "Happy new year",
       "isParent": false,
@@ -2134,7 +2134,7 @@
     },
     {
       "source": "Mandala",
-      "priority": 1,
+      "priority": 2,
       "title": "Mandala",
       "preview": "Mandala",
       "isParent": false,
@@ -2408,7 +2408,7 @@
     },
     {
       "source": "New Updates",
-      "priority": 1,
+      "priority": 2,
       "title": "New Updates",
       "preview": "New Updates",
       "isParent": false,
@@ -2588,7 +2588,7 @@
     },
     {
       "source": "Hot",
-      "priority": 1,
+      "priority": 2,
       "title": "Hot Updates",
       "preview": "Hot",
       "isParent": false,
