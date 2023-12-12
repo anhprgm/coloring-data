@@ -2527,19 +2527,19 @@
       "child": [
         {
           "path": "Christmas Image/01",
-          "isPremium": true
+          "isPremium": false
         },
         {
           "path": "Christmas Image/02",
-          "isPremium": true
+          "isPremium": false
         },
         {
           "path": "Christmas Image/03",
-          "isPremium": true
+          "isPremium": false
         },
         {
           "path": "Christmas Image/04",
-          "isPremium": true
+          "isPremium": false
         },
         {
           "path": "Christmas Image/05",
