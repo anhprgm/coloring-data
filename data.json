@@ -2413,76 +2413,7 @@
       "preview": "New Updates",
       "isParent": false,
       "isShowHome": false,
-      "child": [
-        {
-          "path": "Oggy Cockroaches/05",
-          "isPremium": false
-        },
-        {
-          "path": "Oggy Cockroaches/02",
-          "isPremium": false
-        },
-        {
-          "path": "Chuggington/03",
-          "isPremium": false
-        },
-        {
-          "path": "Chuggington/04",
-          "isPremium": false
-        },
-        {
-          "path": "Among Us/05",
-          "isPremium": false
-        },
-        {
-          "path": "Among Us/06",
-          "isPremium": false
-        },
-        {
-          "path": "Dracula/07",
-          "isPremium": false
-        },
-        {
-          "path": "Dracula/08",
-          "isPremium": false
-        },
-        {
-          "path": "Fairy/01",
-          "isPremium": false
-        },
-        {
-          "path": "Fairy/02",
-          "isPremium": false
-        },
-        {
-          "path": "Human/01",
-          "isPremium": false
-        },
-        {
-          "path": "Human/02",
-          "isPremium": false
-        },
-        {
-          "path": "Kids/01",
-          "isPremium": false
-        },
-        {
-          "path": "Kids/02",
-          "isPremium": false
-        },
-        {
-          "path": "Foods/01",
-          "isPremium": false
-        },
-        {
-          "path": "Foods/03",
-          "isPremium": false
-        },
-        {
-          "path": "Foods/05",
-          "isPremium": false
-        }
-      ]
+      "child": []
     },
     {
       "source": "Christmas Image",
