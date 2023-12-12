@@ -2520,7 +2520,7 @@
     {
       "source": "Hot",
       "priority": 2,
-      "title": "Hot Updates",
+      "title": "Hot Updates 🎅🏻",
       "preview": "Hot",
       "isParent": false,
       "isShowHome": false,
@@ -2620,5 +2620,5 @@
       ]
     }
   ],
-  "version": 3
+  "version": 4
 }
