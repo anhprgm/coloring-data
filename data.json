@@ -10,7 +10,7 @@
         "child": [
           {
             "path": "Among Us",
-            "isPremium": false
+            "isPremium": true
           },
           {
             "path": "Dracula",
@@ -2620,5 +2620,5 @@
         ]
       }
     ],
-    "version": 4
+    "version": 5
   }
